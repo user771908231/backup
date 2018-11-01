@@ -3,12 +3,12 @@
     "description": "Backup extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "backup"],
-    "homepage": "https://github.com/laravel-admin-extensions/backup",
+    "homepage": "https://github.com/user771908231/backup",
     "license": "MIT",
     "authors": [
         {
-            "name": "z-song",
-            "email": "zosong@126.com"
+            "name": "Franco",
+            "email": "771908231@qq.com"
         }
     ],
     "require": {
