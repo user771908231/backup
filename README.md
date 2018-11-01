@@ -15,7 +15,7 @@ An admin interface for managing backups, inspired by https://github.com/laravel-
 > Before installing this package, you must install [laravel-backup](https://github.com/spatie/laravel-backup) and complete the configuration.
 
 ```
-$ composer require laravel-admin-ext/backup -vvv
+$ composer require user771908231/backup -vvv
 
 $ php artisan admin:import backup
 ```
